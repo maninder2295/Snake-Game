@@ -1,5 +1,5 @@
 # Snake-Game
-# First break down into small problems which are mentioned below:
+# Break down into small problems which are mentioned below:
   <> Create Snake(Square Segments which look alike a snake)
 
   <> Run Snake(those Square Segments)
